@@ -1,0 +1,2 @@
+#pragma once
+#define VERSION_NAME "v4.2.0-×ïÈËÎè²½Ğı (Masquerade of the Guilty)"
